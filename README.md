@@ -27,7 +27,7 @@ This is a simple Snake Game. Feed your snake carefully and check your score!
 
 ### Installation
 
-* * *
+---
 
 1. Clone the repo
    ```sh
