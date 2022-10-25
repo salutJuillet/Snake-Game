@@ -107,10 +107,10 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Juillet - <img src="https://img.shields.io/badge/Gmail-FFFFFFFF?style=flat-square&logo=Gmail&logoColor=EA4335"/> - salut.juilllet@gmail.com
+Juillet <img src="https://img.shields.io/gmail?style=flat-square&logo=Gmail&logoColor=EA4335"/> salut.juilllet@gmail.com
 
 
-Project Link: [https://github.com/salutJuillet/Snake-Game](https://github.com/salutJuillet/Snake-Game)
+Project <img src="https://img.shields.io/github?style=social"/> [https://github.com/salutJuillet/Snake-Game](https://github.com/salutJuillet/Snake-Game)
 
 
 
