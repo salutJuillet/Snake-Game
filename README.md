@@ -107,10 +107,10 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Juillet <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-light-mode-only" alt="Gmail" align=left width=24 height=24> salut.juilllet@gmail.com
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-light-mode-only" alt="Gmail" align=left width=24 height=24><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-dark-mode-only" alt="Gmail" align=left width=20 height=20> salut.juilllet@gmail.com
 
 
-Project <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-light-mode-only" alt="gitHub" align=left width=24 height=24> [https://github.com/salutJuillet/Snake-Game](https://github.com/salutJuillet/Snake-Game)
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-light-mode-only" alt="gitHub" align=left width=24 height=24><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-dark-mode-only" alt="gitHub" align=left width=20 height=20> [https://github.com/salutJuillet](https://github.com/salutJuillet)
 
 
 
