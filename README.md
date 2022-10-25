@@ -21,8 +21,10 @@
 * * *
 
 
+
+<!--
 # Snake Game
-<!-- 
+
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutJuillet&layout=compact)](https://github.com/salutJuillet/Snake-Game)
 -->
 
@@ -87,7 +89,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 <!-- CONTRIBUTING -->
-# Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -103,9 +105,9 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- CONTACT -->
-# Contact
+## Contact
 
-Juillet - <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat-square&logo=Gmail&logoColor=EA4335"/> - salut.juilllet@gmail.com
+Juillet - <img src="https://img.shields.io/badge?style=flat-square&logo=Gmail&logoColor=EA4335"/> - `salut.juilllet@gmail.com`
 
 Project Link: [https://github.com/salutJuillet/Snake-Game](https://github.com/salutJuillet/Snake-Game)
 
