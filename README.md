@@ -11,12 +11,14 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a simple Snake Game. Feed your snake carefully and check your score!
+<br/>
 
 
 
 ## Built With
 
 [<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>][React-url]
+<br/>
 
 
 
@@ -24,6 +26,8 @@ This is a simple Snake Game. Feed your snake carefully and check your score!
 ## Getting Started
 
 ### Installation
+
+* * *
 
 1. Clone the repo
    ```sh
@@ -38,6 +42,7 @@ This is a simple Snake Game. Feed your snake carefully and check your score!
    ```sh
    yarn
    ```
+<br/>
 
 
 
@@ -48,6 +53,7 @@ This is a simple Snake Game. Feed your snake carefully and check your score!
 2. Eat food and get points.
 3. If you hit the walls or your own body, game will be over.
 4. Check your score and try again! 
+<br/>
 
 
 
@@ -73,6 +79,7 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+<br/>
 
 
 
