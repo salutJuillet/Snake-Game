@@ -8,7 +8,9 @@
 <!-- ABOUT THE PROJECT -->
 # Snake Game
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <img src="public/images/preview.gif" width="500px"/>  
+</div>
 
 This is a simple Snake Game. Feed your snake carefully and check your score!
 <br/>
