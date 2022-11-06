@@ -9,9 +9,10 @@
 # Snake Game
 
 <div align="center">
-  <img src="public/images/preview.gif" width="500px"/>  
-</div>
-
+  [<img src="public/images/preview.gif" width="500px"/>]()
+  <p>This image is at about 3X of the original.</p>
+</div>  
+<br/><br/>
 This is a simple Snake Game. Feed your snake carefully and check your score!
 <br/>
 
